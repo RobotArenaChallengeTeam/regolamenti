@@ -56,13 +56,13 @@ K. Batterie: le batterie non potranno contenere acidi o elettroliti liquidi e so
 
 ## 3) Arena
 * L’arena da combattimento è un volume chiuso per evitare la fuoriuscita di pezzi e detriti, come materiale per la costruzioni di lati trasparenti dovrá essere usato policarbonato con uno spessore minimo di 4mm per motivi di sicureza. I robot combatteranno su una superficie piana, nella quale possono essere piazzate botolo o hazards. É caldamente consigliato che all'evento sia presente una Test Box nella zona Pit, un cubo anche inferiore ai 50cm di lato con pareti in legno ed una faccia trasparente per poter accendere il proprio robot e testarlo in sicurezza durante i controlli pre-torneo o dopo le riparazioni, o che in sua vece sia possibile utilizzare l'arena.
-* **Per maggiori dettagli sulle specifiche dell'arena consultare il documento fornito dall'organizzatore del singolo evento che linka questo regolamento**
+* **Per le specifiche dell'arena consultare il documento fornito dall'organizzatore del singolo evento che linka questo regolamento**
 
 ## 4) Combattimenti
 Il formato consigliato per gli eventi é un tabellone a Doppia Eliminazione, che garantisce ad ogni robot un minimo di due combattimenti, più un’eventuale Royal Rumble a fine giornata a cui possono partecipare in contemporanea tutti i robot ancora funzionanti. Consigliamo quindi di portare ricambi almeno per poter affrontare un secondo combattimento durante il torneo principale. Ma è fortemente consigliato portare svariati ricambi per poter garantire il funzionamento del robot con il procedere del tabellone.
 * Ogni combattimento ha la durata massima consigliata di 3 minuti, durante la quale i robot hanno l’obiettivo di incapacitare l’avversario.
 * Passato il tempo limite senza incapacitamenti, o in caso di incapacitamenti simultanei, una giuria di 3 giudici decide l’esito del combattimento secondo i criteri di giudizio consigliati di BattleBots: Danno, Aggressività e Controllo. (https://battlebots.com/wp-content/uploads/2021/06/Judges-Guide-Rev.2021.0.pdf)
-* **per il reale formato del tabellone, la reale durata massima dei combattimenti, ed i critetri di giudizio scelti consultare il documento fornito dall'organizzatore del singolo evento che linka questo regolamento**
+* **Per il reale formato del tabellone, la durata massima dei combattimenti, ed i critetri di giudizio scelti consultare il documento fornito dall'organizzatore del singolo evento che linka questo regolamento**
 * Al temine di un combattimento, in caso di resa o in caso l’arbitro chiami una pausa, i robot dovranno immediatamente cessare qualsiasi funzione ed andare in uno stato di failsafe.
 * Un robot che cade all’interno di una botola o fuoriesce dai limiti dell'arena qualora possibile si considera immediatamente incapacitato.
 * Regola dell’aggressore: in caso in cui più robot cadano all’interno della botola insieme, ed é chiaro chi ha compiuto l’azione di spinta, quel robot verrà giudicato vincitore.
