@@ -80,7 +80,7 @@ rac@studio5t.com
 [Instagram](https://www.instagram.com/robotarenachallenge/)
 [YouTube](https://www.youtube.com/channel/UCQnjBZ0KMxlHL-30ejunIVA)
 [Facebook](https://www.facebook.com/RobotArenaChallenge)
-
+![alt_text](https://github.com/RobotArenaChallengeTeam/regolamenti/blob/main/immagini/loghi/Logo-RAC-trasparente.png)
 link utili per le comunitá di costruttori di robot in italia:
 [Discord](https://discord.com/invite/zKuerqs6EP)
 
