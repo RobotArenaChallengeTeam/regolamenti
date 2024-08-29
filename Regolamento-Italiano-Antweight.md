@@ -55,7 +55,7 @@ J. Parti acuminate o taglienti: tutte le parti acuminate o taglienti del robot d
 K. Batterie: le batterie non potranno contenere acidi o elettroliti liquidi e sono limitate ad un massimo di 24v come tensione misurata da cariche.
 
 ## 3) Arena
-* L’arena da combattimento è un volume chiuso per evitare la fuoriuscita di pezzi e detriti, come materiale per la costruzioni di lati trasparenti dovrá essere usato policarbonato con uno spessore minimo di 4mm per motivi di sicureza. I robot combatteranno su una superficie piana, nella quale possono essere piazzate botolo o hazards. É caldamente consigliato che all'evento sia presente una Test Box nella zona Pit, un cubo anche inferiore ai 50cm di lato con pareti in legno ed una faccia trasparente per poter accendere il proprio robot e testarlo in sicurezza durante i controlli pre-torneo o dopo le riparazioni, o che in sua vece sia possibile utilizzare l'arena.
+* L’arena da combattimento è un volume chiuso per evitare la fuoriuscita di pezzi e detriti, come materiale per la costruzioni di lati trasparenti dovrá essere usato policarbonato con uno spessore minimo di 4mm per motivi di sicureza. I robot combatteranno su una superficie piana, nella quale potranno essere presenti botole e/o hazards. É caldamente consigliato che all'evento sia presente una Test Box nella zona Pit, un cubo anche inferiore ai 50cm di lato con pareti in legno ed una faccia trasparente per poter accendere il proprio robot e testarlo in sicurezza durante i controlli pre-torneo o dopo le riparazioni, o che in sua vece sia possibile utilizzare l'arena.
 * **Per le specifiche dell'arena consultare il documento fornito dall'organizzatore del singolo evento che linka questo regolamento**
 
 ## 4) Combattimenti
