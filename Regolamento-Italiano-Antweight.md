@@ -75,13 +75,17 @@ Il formato consigliato per gli eventi é un tabellone a Doppia Eliminazione, che
 * In caso di robot incastrati tra loro, dopo 10 secondi (o prima se entrambi i piloti dichiarano di essere incastrati) il combattimento viene messo in pausa ed i robot separati manualmente. Se i pezzi responsabili dell’incastro devono essere rimossi per effettuare la separazione non potranno essere rimontati sul robot prima della ripresa dell’incontro.
 * Durante qualsiasi pausa durante un combattimento non è concesso sistemare o modificare i robot.
 
-Revisione principale del regolamento a cura di Robot Arena Challenge, per qualsia chiarimento contattare: 
+link utili per le comunitá di costruttori di robot in italia:
+[Discord](https://discord.com/invite/zKuerqs6EP)
+
+## Altro
+Revisione principale del regolamento a cura di Robot Arena Challenge,il regolamento qui presente é sotto licenza MIT, per qualsia chiarimento contattare:
+
 rac@studio5t.com
 [Instagram](https://www.instagram.com/robotarenachallenge/)
 [YouTube](https://www.youtube.com/channel/UCQnjBZ0KMxlHL-30ejunIVA)
 [Facebook](https://www.facebook.com/RobotArenaChallenge)
-![alt_text](https://github.com/RobotArenaChallengeTeam/regolamenti/blob/main/immagini/loghi/Logo-RAC-trasparente.png)
-link utili per le comunitá di costruttori di robot in italia:
-[Discord](https://discord.com/invite/zKuerqs6EP)
 
-il regolamento qui presente é sotto licenza MIT
+<div align="center">
+<img src="/immagini/loghi/Logo-RAC-trasparente.png" alt="logo" width="200"/>
+</div>
