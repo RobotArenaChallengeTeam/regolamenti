@@ -1,4 +1,4 @@
-# ﻿Regolamento costruttori
+# ﻿Regolamento italiano Antweight - Regole costruttori
 Il seguente documento regola la costruzione dei robot, il formato dell’evento e le procedure a cui i partecipanti si devono attenere per partecipare alle competizioni Antweight in Italia. In quanto competizione di robot da combattimento distruttivi, in questo documento sono compresi tutti i requisiti di sicurezza obbligatori da seguire per la costruzione e l’utilizzo dei robot durante l’evento. La categoria di competizione del presente regolamento è già nota come Antweight 150g in ambito europeo o come Fairyweight in USA.
 
 Chiunque in italia puó utilizzare questo regolamento per i propri eventi purché sia: o linkato direttamente in cima al documento dell'evento in questione, o copiato integralmente, oppure allegato integralmente in formato pdf. Possono essere apportate modifiche menzionando i vari punti del regolamento e riscrivendoli nel proprio documento. Dovranno inoltre essere inserite nel documento dell'evento una descrizione dell'arena, del formato, dei criteri di giudizio scelti qualora diversi da quelli di battlebots e la durata degli incontri.
