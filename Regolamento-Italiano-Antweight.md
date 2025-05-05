@@ -99,15 +99,14 @@ Il formato consigliato per gli eventi é un tabellone a Doppia Eliminazione, che
 * L'EO si occuperá di linkare questo regolamento nel suo documento riguardante i dettagli della competizione, e' caldamente consigliato che le uniche modifiche riguardino solo l'arena, la durata dell'incontro, il limite di presa in modo da rendere piú omogeneo possibile il circuito di competizioni italiane, ma é nel suo diritto modificare altre parti del regolamento. Modifiche comuni possono essere: sportsman (niente armi cinetiche o distruttive), plants (solo materiali plastici concessi).
 
 ## Altro
-Revisione principale del regolamento a cura di Robot Arena Challenge,il regolamento qui presente é sotto licenza MIT, per qualsia chiarimento contattare:
+Revisione principale del regolamento a cura de I Robottari, il regolamento qui presente é sotto licenza MIT, per qualsia chiarimento contattare:
 
-rac@studio5t.com
-[Instagram](https://www.instagram.com/robotarenachallenge/)
-[YouTube](https://www.youtube.com/channel/UCQnjBZ0KMxlHL-30ejunIVA)
-[Facebook](https://www.facebook.com/RobotArenaChallenge)
+info@irobottari.com  
+[www.irobottari.com](https://www.irobottari.com)  
+[Instagram](https://www.instagram.com/irobottari/)  
 
 <div align="center">
-<img src="./immagini/loghi/Logo-RAC-trasparente.png" alt="logo" width="200"/>
+<img src="./immagini/loghi/I_ROBOTTARI_logotipo_redblack.png" alt="logo" width="600"/>
 </div>
 
 link utili per le comunitá di costruttori di robot in italia:  
